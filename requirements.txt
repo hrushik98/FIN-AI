@@ -1,0 +1,9 @@
+streamlit
+pyngrok
+yahooquery
+yfinance
+openai
+plotly
+googlesearch-python
+bs4
+wget
