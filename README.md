@@ -8,18 +8,24 @@ https://stock-gpt.streamlit.app/
 # Features
 
 ## Various Graphs
--> Stock Price Graph
+### Stock Price Graph
+
 ![image](https://github.com/user-attachments/assets/a4f760df-770f-4fc6-a5f0-acdf1d3061ce)
 
 
--> Sales And Margin Graph
+### Sales And Margin Graph
+
 ![image](https://github.com/user-attachments/assets/b4f1e75e-ff59-4156-aca0-7d029aab37ca)
 
--> FCFF graph
+### FCFF graph
+
 ![image](https://github.com/user-attachments/assets/77b68cc1-e153-4a1f-a638-2771af98bc41)
 
--> Reinvestment and ROIC graphs
+### Reinvestment and ROIC graphs
+
 ![image](https://github.com/user-attachments/assets/b2152c19-230d-4839-93d6-e25ec7573f0e)
+
+
 
 ## Downloadable Financial Statements
 Downloadable Balance sheets, income sheets, and other financial data.
