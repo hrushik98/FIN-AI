@@ -1,0 +1,11 @@
+I developed FIN-AI, a comprehensive financial analysis platform that helps users make data-driven investment decisions. The project combines several technical challenges I'm passionate about: data processing, visualization, and AI-powered analysis.
+
+The system pulls financial data using yahooquery and yfinance APIs, creating interactive visualizations of key metrics like stock prices, sales margins, and FCFF using Plotly. What makes it particularly powerful is the AI-driven analysis component 
+
+I implemented web scraping using BeautifulSoup4 to gather recent company news and developments, then used OpenAI's API to generate summarized insights and market trend analysis.
+
+The project is built with Streamlit for a clean, interactive interface that makes complex financial data accessible to users of varying expertise levels. 
+
+What makes me particularly proud is its real-world impact - several of my friends have used it to make more informed investment decisions. The project also taught me valuable lessons about integrating multiple data sources, handling real-time financial data, and presenting complex information in an accessible way.
+
+From a technical perspective, I had to overcome challenges like rate limiting on financial APIs, optimizing web scraping to gather relevant news efficiently, and ensuring the AI summaries were both accurate and actionable. The project demonstrates my ability to build end-to-end systems that combine data processing, ML/AI, and user-friendly interfaces to solve real-world problems.
