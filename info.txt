@@ -10,4 +10,6 @@ What makes me particularly proud is its real-world impact - several of my friend
 
 From a technical perspective, I had to overcome challenges like rate limiting on financial APIs, optimizing web scraping to gather relevant news efficiently, and ensuring the AI summaries were both accurate and actionable. The project demonstrates my ability to build end-to-end systems that combine data processing, ML/AI, and user-friendly interfaces to solve real-world problems.
 
-Thank you for readin
+Thank you for reading this!
+
+You are free to contribute to this project. Please raise a PR to the main branch and I'll review and merge it.
