@@ -9,3 +9,5 @@ The project is built with Streamlit for a clean, interactive interface that make
 What makes me particularly proud is its real-world impact - several of my friends have used it to make more informed investment decisions. The project also taught me valuable lessons about integrating multiple data sources, handling real-time financial data, and presenting complex information in an accessible way.
 
 From a technical perspective, I had to overcome challenges like rate limiting on financial APIs, optimizing web scraping to gather relevant news efficiently, and ensuring the AI summaries were both accurate and actionable. The project demonstrates my ability to build end-to-end systems that combine data processing, ML/AI, and user-friendly interfaces to solve real-world problems.
+
+Thank you for readin
